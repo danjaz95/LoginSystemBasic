@@ -1,0 +1,26 @@
+.wrapper {
+    margin-top: 12%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+  }
+  
+  h2 {
+    font-family: "Varela Round", sans-serif;
+    padding-bottom: 10px;
+  }
+
+  .warn{
+    
+    font-family: "Varela Round", sans-serif;
+    color: tomato;
+
+  }
+
+  .normal{
+    font-family: "Varela Round", sans-serif;
+    color: chartreuse;
+    
+  }
+  
